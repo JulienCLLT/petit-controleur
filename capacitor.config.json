@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Petit controleur",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
