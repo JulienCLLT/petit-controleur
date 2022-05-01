@@ -54,7 +54,7 @@ Mettre en place une modération standard des messageries.
 
 Le framework IONIC sera utilisé pour le prototype de l'applications car il permet de developpé en une seul fois une applications web iOS et Android.
 
-Ce framework dispose d'une bonne documentations et d'un grande communications. frameworks Open source disponible avec REACT, ANGULAR et VUE
+Ce framework dispose d'une bonne documentations et d'une grande communautée. frameworks Open source disponible avec REACT, ANGULAR et VUE
 
 Il repose sur le moteur Node.js.
 
