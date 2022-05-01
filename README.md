@@ -10,7 +10,7 @@ Cette application permet de partager des compléments d'information entre contr�
 
 ### Fonctionalité de base
 
-### Inscription 
+#### Inscription 
 
 L'application est destinée au personnel agrémente. Une fonctionnalité de vérification doit être développé.
 Une base de données référençant tous les contrôleurs en activité existe au sein de L'OTC qui se nomme RNC2.
@@ -21,7 +21,7 @@ Les informations nécessaire a la recherche dans cette base de données et le no
 
 ATTENTION ! lors des essais de recherche dans cette base de données, j'ai pu remarqué que malgré la bonne orthographe des noms ou prénom les recherches n'aboutisse pas correctement. Le critère de recherche le plus fiable reste le numéro d'agrément!
 
-### Partage informations sur identification du vehicule 
+#### Partage informations sur identification du vehicule 
 
 L'application doit posséder une base de données propre qui référence le plus grand nombre de véhicules possible et doit être maintenues à jour régulièrement. ( tout les 6 mois par exemple)
 
@@ -40,7 +40,7 @@ Mettre en place plusieurs systèmes de modérations pour éviter les débordemen
 Mettre en place une fonctionnalité de prise de photo directement via l'application et avoir une option de flottage des numéros pris en exemple.
 
 
-### Messagerie intercentre 
+#### Messagerie intercentre 
 
 L'application peut permettre de discuter via une messagerie entre controleur/centre.
 
@@ -50,6 +50,14 @@ Cette messagerie permet de partager des informations entre centres ou contrôleu
 
 Mettre en place une modération standard des messageries.
 
+### IONIC
 
+Le framework IONIC sera utilisé pour le prototype de l'applications car il permet de developpé en une seul fois une applications web iOS et Android.
+
+Ce framework dispose d'une bonne documentations et d'un grande communications. frameworks Open source disponible avec REACT, ANGULAR et VUE
+
+Il repose sur le moteur Node.js.
+
+Incoveniant  frameworks qui et moins performant qu'un developpement Native, limitations de certaine fonctionalité, soucis de securité
 
 
